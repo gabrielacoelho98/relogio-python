@@ -25,6 +25,18 @@ Ele mostra a hora atual em tempo real e atualiza a cada segundo.
 ## ▶️ Como executar o projeto
 
 1. Clone o repositório:
-
-```bash
+bash
 git clone https://github.com/seuusuario/relogio-tkinter.git
+
+2. Entre na pasta do projeto:
+cd relogio-tkinter
+
+3. Execute o relógio:
+python relogio.py
+
+⚠️ A aplicação vai abrir uma janela com o relógio digital em tempo real.
+
+🎯 Objetivo
+
+Este projeto foi criado para praticar interfaces gráficas com Python e Tkinter, exibindo a hora em tempo real de forma simples.
+   
